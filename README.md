@@ -1,4 +1,4 @@
-## Automated Machine Learning Workflow for Distributed Big Data Using Analytics Zoo
+## Automated ML Workflow for Distributed Big Data Using Analytics Zoo
 ___
 
 ## Speaker
