@@ -1,27 +1,16 @@
-## Building Deep Learning Applications for Big Data
-**_An Introduction to [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo): Distributed TensorFlow, Keras and BigDL on Apache Spark_**
-
+## Automated Machine Learning Workflow for Distributed Big Data Using Analytics Zoo
 ___
 
 ## Speaker
 [Jason Dai](https://jason-dai.github.io/)
 
 ## Description
-Recent breakthroughs in artificial intelligence applications have brought deep learning to the forefront of new generations of data analytics. In this tutorial, we will present the practice and design tradeoffs on building large-scale deep learning applications (such as computer vision and NLP), for production data and workflow on Big Data platforms. We will provide an overview of emerging deep learning frameworks for Big Data (e.g., BigDL, TensorFlowOnSpark, Deep Learning Pipelines for Apache Spark, etc.), and present the underlying distributed systems and algorithms. More importantly, we will show how to build and productionize end-to-end deep learning application pipelines for Big Data (on top of [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo), a unified analytics + AI platform for distributed TensorFlow, Keras and BigDL on Apache Spark), using real-world use cases (such as Azure, JD.com, World Bank, Midea/KUKA, etc.)
+Applying machine learning (ML) techniques to distributed big data analytics plays a central role in today’s intelligent applications and systems. These problem settings have pushed the field to address issues of data scale that were almost inconceivable even a decade ago for AI researchers. In addition, building machine learning applications for these big data problems can also be a laborious and knowledge-intensive process for ML engineers. 
 
-## Schedule
-_Sunday, January 27 (1:30PM - 5:30PM), 2019_
+To address these challenges, we have open sourced [Analytics Zoo](https://github.com/jason-dai/analytics-zoo), which helps users to build and productionize end-to-end ML workflow for distributed big data in an automated fashion. Using Analytics Zoo, users can simply build conventional Python notebooks on their laptops (with possible AutoML support), which can then automatically scale out to large clusters and process large amount of data in a distributed fashion. 
 
-| 1:30PM - 1:45PM | Motivation |
-| 1:45PM - 2:15PM | DL frameworks on Apache Spark |
-| 2:15PM - 2:45PM | Analytics Zoo Overview |
-| 2:45PM - 3:15PM | Analytics Zoo Examples |
-| 3:15PM - 3:45PM | Break |
-| 3:45PM - 4:15PM | Distributed training |
-| 4:15PM - 4:35PM | Advanced applications |
-| 4:35PM - 5:20PM | Real-world applications |
-| 5:20PM - 5:30PM | Q&A |
+This tutorial will present how to implement the automated ML workflow for big data (with a focus on supporting computer vision models and pipelines), by seamlessly integrating different technologies including deep learning frameworks (e.g., TensroFlow, Keras, PyTorch, etc.), distributed analytics frameworks (e.g., Apache Spark, Apache Flink, Apache Kafka, Ray, etc.), and AutoML techniques (e.g., hyperparameter optimizations, meta-learning, etc.). In addition, it will also share real-world experience and "war stories" of users (such as Uber, Mastercard, CERN, BMW, SK Telecom, Tencent, etc.) who have adopted Analytics Zoo to address their challenges when applying ML techniques to distributed big data analytics.
 
 ## Link
-* Slides ([pdf](slides/AI%20on%20Big%20Data%20(Jason%20Dai).pdf)) for [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2) tutorial
-* Previous [tutorial](https://jason-dai.github.io/cvpr2018/) at [CVPR 2018](http://cvpr2018.thecvf.com/program/tutorials) (YouTube video available)
+* Related [tutorial](https://jason-dai.github.io/cvpr2018/) at [CVPR 2018](http://cvpr2018.thecvf.com/program/tutorials) (YouTube video available)
+* Related [tutorial](https://jason-dai.github.io/aaai2019) at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2)
