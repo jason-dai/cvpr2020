@@ -5,7 +5,7 @@ ___
 [Jason Dai](https://jason-dai.github.io/)
 
 ## Schedule
-_2-5PM (Pacific Time), June 19, 2020 (via [Zoom meeting](https://zoom.us/j/96582244926?pwd=WWQ5eDNmK3JQMVoyNUZCOEoxUU0rdz09))_
+_2-5PM (Pacific Time), June 19, 2020_
 
 ## Description
 Applying machine learning (ML) techniques to distributed big data analytics plays a central role in today’s intelligent applications and systems. These problem settings have pushed the field to address issues of data scale that were almost inconceivable even a decade ago for AI researchers. In addition, building machine learning applications for these big data problems can also be a laborious and knowledge-intensive process for ML engineers. 
