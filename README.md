@@ -14,6 +14,10 @@ To address these challenges, we have open sourced [Analytics Zoo](https://github
 
 This tutorial will present how to implement the automated ML workflow for big data (with a focus on supporting computer vision models and pipelines), by seamlessly integrating different technologies including deep learning frameworks (e.g., TensroFlow, Keras, PyTorch, etc.), distributed analytics frameworks (e.g., Apache Spark, Apache Flink, Apache Kafka, Ray, etc.), and AutoML techniques (such as hyperparameter optimizations). In addition, it will also share real-world experience and "war stories" of users who have adopted Analytics Zoo to address their challenges when applying ML techniques to distributed big data analytics.
 
+## Tutorial
+* SlideShare ([link](https://www.slideshare.net/jason-dai/automated-ml-workflow-for-distributed-big-data-using-analytics-zoo-cvpr2020-tutorial))
+* Slides ([pdf](slides/AI%20on%20Big%20Data%20(Jason%20Dai).pdf))
+
 ## Link
 * Related [tutorial](https://jason-dai.github.io/cvpr2018/) at [CVPR 2018](http://cvpr2018.thecvf.com/program/tutorials) (YouTube video available)
 * Related [tutorial](https://jason-dai.github.io/aaai2019) at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2)
