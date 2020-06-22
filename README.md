@@ -16,7 +16,7 @@ This tutorial will present how to implement the automated ML workflow for big da
 
 ## Tutorial
 * SlideShare ([link](https://www.slideshare.net/jason-dai/automated-ml-workflow-for-distributed-big-data-using-analytics-zoo-cvpr2020-tutorial))
-* Slides ([pdf](slides/AI%20on%20Big%20Data%20(Jason%20Dai).pdf))
+* Slides ([pdf](slides/AIonBigData_cvpr20.pdf))
 
 ## Link
 * Related [tutorial](https://jason-dai.github.io/cvpr2018/) at [CVPR 2018](http://cvpr2018.thecvf.com/program/tutorials) (YouTube video available)
