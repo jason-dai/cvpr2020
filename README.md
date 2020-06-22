@@ -19,5 +19,5 @@ This tutorial will present how to implement the automated ML workflow for big da
 * Slides ([pdf](slides/AIonBigData_cvpr20.pdf))
 
 ## Link
-* Related [tutorial](https://jason-dai.github.io/cvpr2018/) at [CVPR 2018](http://cvpr2018.thecvf.com/program/tutorials) (YouTube video available)
+* Related [tutorial](https://jason-dai.github.io/cvpr2018/) at [CVPR 2018](http://cvpr2018.thecvf.com) (YouTube video available)
 * Related [tutorial](https://jason-dai.github.io/aaai2019) at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2)
